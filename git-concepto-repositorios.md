@@ -14,10 +14,10 @@ Es decir, que ya tiene la capacidad de crear y controlar versiones sobre la hist
 <br>
 <br>
 
-<em>[Editar este artículo en Github](# " target="_blank)</em>
+<em>[Editar este artículo](https://github.com/Pandawebs/Git-y-GitHub-elemental/edit/master/git-concepto-repositorios.md)</em>
 
 <hr>
 
-[anterior](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/README.md) **Índice**
+[anterior](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/README.md) **índice**
 
-[siguiente](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/instalacion-y-configuracion-de-git) **Instalación y configuración**
+[siguiente](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/instalacion-y-configuracion-de-git) **instalación y configuración**
