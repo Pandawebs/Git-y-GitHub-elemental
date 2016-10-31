@@ -17,7 +17,7 @@ Es decir, que ya tiene la capacidad de crear y controlar versiones sobre la hist
 <em>[Editar este artículo en Github](# " target="_blank)</em>
 
 <hr>
-    <a href="https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/README.md">anterior</a>
-    Índice
-    <a href="https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master//instalacion-y-configuracion-de-git">siguiente</a>
-    Instalación y configuración
+
+[anterior](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/README.md)**Índice**
+
+[siguiente](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/instalacion-y-configuracion-de-git)**Índice**
