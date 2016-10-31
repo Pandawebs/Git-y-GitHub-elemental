@@ -2,7 +2,7 @@
 
 Este repositorio contiene los artículos publicados del curso elemental de Git y GitHub de [pandawebs.net](http://pandawebs.net/git-github-elemental/).
 La idea es aprender de manera fácil y efectiva basándonos en ideas y ejemplos concretos.
-Buscamos el crecimiento y mejoramiento permanente de este curso a través de la colaboración de todos aquellos que quierán aprender y formar parte.
+Buscamos el crecimiento la mejora permanente de este curso a través de la colaboración de todos aquellos que quieran aprender y formar parte.
 
 Esperamos tu ["pull request"](#), ya sea al [proyecto de práctica ](#) como a este mismo repositorio, corrigiendo, agregando o mejorando estos artículos.
 
