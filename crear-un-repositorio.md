@@ -10,8 +10,7 @@ Para iniciar Git. En la terminal, ir a la carpeta del proyecto y escribir:
 ```console
 agustin@pandawebs-MacBook-Pro git-curso $ git init
 
-Initialized empty Git repository in /Users/agustinpfs/git-curso/.git/
-´´´
+Initialized empty Git repository in /Users/agustinpfs/git-curso/.git/```
 
 "Initialized empty Git repository" nos dice que ya tenemos un repositorio Git.
 
