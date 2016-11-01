@@ -1,6 +1,6 @@
-##Instalación y configuración de Git
+#Instalación y configuración de Git
 
-###Instalar Git
+##Instalar Git
 
 Descargar Git desde [https://git-scm.com/downloads](https://git-scm.com/downloads " target="_blank) y seguir las instrucciones de instalación.
 
@@ -13,16 +13,22 @@ Si Git se instaló correctamente, la terminal mostrará la versión de Git insta
 Ejemplo: `git version 2.6.0`
 
 En terminal:
-```agustin@pandawebs-MacBook-Pro ~ $ git --version
 
-git version 2.6.0```
+```console
+agustin@pandawebs-MacBook-Pro ~ $ git --version
 
+git version 2.6.0
+```
 
-###Configurar Git
+<hr>
+
+##Configurar Git
 
 **Configuración de nombre y email para Git**
 
 *Configuraremos nuestro nombre y email para asociar los cambios del repositorio(commits) a una identidad.*
+
+<br>
 
 ###Configurar nombre:
 
@@ -42,6 +48,8 @@ De ésta manera cada repositorio creado en cualquier directorio se le asignará 
 
 > Esta configuración global es la mas común ya que por lo general, los repositorios locales son del único dueño de la computadora.
 
+<br>
+
 b)**Configurar nombre de manera ÚNICA:** Para un repositorio en particular.
 
 `git config user.name "Agustin"` 
@@ -53,6 +61,8 @@ En terminal. En el directorio raíz del proyecto("git-curso" en este ejemplo):
 
 
 > Podemos utilizar el comando anterior (único), aunque ya tengamos definido un usuario global. El nuevo nombre sobreescribirá el nombre definido globalmente en ese repositorio.
+
+<br>
 
 **Para ver el nombre de usuario de un repositorio Git.**
 
