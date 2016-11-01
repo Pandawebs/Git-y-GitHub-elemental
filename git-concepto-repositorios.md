@@ -10,6 +10,7 @@ a través del tiempo, conocido en programación como "Control de Versiones".**_
 
 Un repositorio es, simplemente, la carpeta del proyecto una vez que se incorporó Git.
 Es decir, que ya tiene la capacidad de crear y controlar versiones sobre la historia de desarrollo.
+
 [crear un repositorio](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/crear-un-repositorio.md)
 
 <br>
