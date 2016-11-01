@@ -125,7 +125,8 @@ a crear y esta acción sbreescribirá el email anterior.
 <!-- Inicio links índice y github -->
 
 
-<span class="link-to-index-git">Git & Github elemental [ ver índice](http://pandawebs.net/git-github-elemental/)</span>
+<span class="link-to-index-git">[Git & Github elemental ver índice](http://pandawebs.net/git-github-elemental/)</span>
+
 <em>[Editar este artículo.](https://github.com/Pandawebs/Git-y-GitHub-elemental/edit/master/instalacion-y-configuracion-de-git.md " target="_blank)</em>
 
 
