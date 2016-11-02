@@ -12,7 +12,6 @@ Archivo .md escrito en [markdown](#):
   * Agustín Palmieri
 ```
 Archivo .md escrito en [markdown](#):
-![alt](http://localhost:2368/assets/images/README.md.png)
 
 > **README** es un archivo generalmente .txt o .md(.md es la extensión de un archivo [markdown](#)). 
 Un archivo README.md se utiliza comunmente para que se imprima en la página principal del proyecto en Github). Es el primer lugar que los usuarios potenciales y colaboradores van a buscar información sobre tu proyecto. Como nombre, instalación, colaboradores, licencia etc. 
