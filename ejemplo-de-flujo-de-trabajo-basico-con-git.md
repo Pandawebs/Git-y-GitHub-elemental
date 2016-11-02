@@ -123,7 +123,7 @@ Author: agustin
 
 Date: Mon Oct 24 19:09:54 2016 -0300
 
- Agregamos contacto a README.md
+      Agregamos contacto a README.md
 
 commit 57b46c2aaboc67af0e2d8c825a7c47ea915170fd
 
@@ -131,5 +131,5 @@ Author: agustin
 
 Date: Mon Oct 24 19:15:14 2016 -0300
 
- Creamos README.md
+      Creamos README.md
  ```
