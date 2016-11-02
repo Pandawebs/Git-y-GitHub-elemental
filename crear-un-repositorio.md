@@ -3,14 +3,14 @@
 
 Después de [instalar Git en nuestra computadora](http://pandawebs.net/instalacion-y-configuracion-de-git/ " target="_blank) ya podremos iniciar Git en cualquier carpeta para que ésta se convierta en un repositorio.
 
-Para iniciar Git. En la terminal, ir a la carpeta del proyecto y escribir:
+Para iniciar Git. En la terminal, ir a la carpeta del proyecto(practicasGit) y escribir:
 
 `git init`
 
 ```console
-agustin@pandawebs-MacBook-Pro git-curso $ git init
+agustin@pandawebs-MacBook-Pro practicasGit $ git init
 
-Initialized empty Git repository in /Users/agustinpfs/git-curso/.git/
+Initialized empty Git repository in /Users/agustinpfs/practicasGit/.git/
 ```
 
 "Initialized empty Git repository" nos dice que ya tenemos un repositorio Git.
