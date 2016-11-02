@@ -39,7 +39,8 @@ Untracked files:
 
 README.md
 
-nothing added to commit but untracked files present (use "git add" to track)```
+nothing added to commit but untracked files present (use "git add" to track)
+```
 
 <br>
 
@@ -91,7 +92,7 @@ agustin@pandawebs-MacBook-Pro git-curso $ git status
 modified: README.md
 
 no changes added to commit (use "git add" and/or "git commit -a")
-
+```
 <br>
 
 
