@@ -133,3 +133,25 @@ Date: Mon Oct 24 19:15:14 2016 -0300
 
  Creamos README.md
  ```
+
+<br>
+<br>
+
+
+<!-- Inicio links índice y github -->
+
+<span class="link-to-index-git">Git & Github elemental [ ver índice](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/README.md)</span>
+
+<em>[Editar este artículo](https://github.com/Pandawebs/Git-y-GitHub-elemental/edit/master/ejemplo-de-flujo-de-trabajo-basico-con-git.md)</em>
+
+<!-- Fin links índice y github -->
+
+
+
+<hr>
+
+<br>
+
+[siguiente - **Ramas (branches)**](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/trabajar-con-ramas-git.md) 
+
+[anterior - **Flujo de trabajo básico con Git**](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/flujo-de-trabajo-basico-con-git.md) 
