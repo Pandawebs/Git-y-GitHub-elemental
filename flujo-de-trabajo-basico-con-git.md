@@ -37,7 +37,7 @@ Repetiremos los pasos luego de volver a editar el proyecto y creamos conveniente
 
 <br>
 
-[siguiente - **Ejemplo de flujo de trabajo con Git**](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/ejemplo-de-flujo-de-trabajo-con-git.md) 
+[siguiente - **Ejemplo de flujo de trabajo con Git**](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/ejemplo-de-flujo-de-trabajo-basico-con-git.md) 
 
 [anterior - **Cómo crear un repositorio**](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/crear-un-repositorio.md) 
 
