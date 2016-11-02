@@ -20,7 +20,7 @@ Esperamos tu ["pull request"](#), ya sea al [proyecto de práctica ](#) como a e
 
 - [Flujo de trabajo básico con Git](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/flujo-de-trabajo-basico-con-git.md)
 
-- [Ejemplo de flujo de trabajo con Git](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/ejemplo-de-flujo-de-trabajo-con-git.md)
+- [Ejemplo de flujo de trabajo con Git](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/ejemplo-de-flujo-de-trabajo-basico-con-git.md)
 
 - [Ramas (branches)](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/trabajar-con-ramas-git.md)
 
