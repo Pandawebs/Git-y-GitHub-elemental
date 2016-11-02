@@ -12,7 +12,6 @@ Archivo .md escrito en [markdown](#):
   * Agustín Palmieri
 ```
 Archivo .md escrito en [markdown](#):
-![alt](http://localhost:2368/assets/images/README.md.png)
 
 > **README** es un archivo generalmente .txt o .md(.md es la extensión de un archivo [markdown](#)). 
 Un archivo README.md se utiliza comunmente para que se imprima en la página principal del proyecto en Github). Es el primer lugar que los usuarios potenciales y colaboradores van a buscar información sobre tu proyecto. Como nombre, instalación, colaboradores, licencia etc. 
@@ -39,7 +38,8 @@ Untracked files:
 
 README.md
 
-nothing added to commit but untracked files present (use "git add" to track)```
+nothing added to commit but untracked files present (use "git add" to track)
+```
 
 <br>
 
@@ -91,7 +91,7 @@ agustin@pandawebs-MacBook-Pro git-curso $ git status
 modified: README.md
 
 no changes added to commit (use "git add" and/or "git commit -a")
-
+```
 <br>
 
 
@@ -123,7 +123,7 @@ Author: agustin
 
 Date: Mon Oct 24 19:09:54 2016 -0300
 
- Agregamos contacto a README.md
+      Agregamos contacto a README.md
 
 commit 57b46c2aaboc67af0e2d8c825a7c47ea915170fd
 
@@ -131,7 +131,7 @@ Author: agustin
 
 Date: Mon Oct 24 19:15:14 2016 -0300
 
- Creamos README.md
+      Creamos README.md
  ```
 
 <br>
