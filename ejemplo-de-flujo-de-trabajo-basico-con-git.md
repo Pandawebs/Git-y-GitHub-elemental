@@ -17,7 +17,7 @@ Archivo .md escrito en [markdown](#):
 Un archivo README.md se utiliza comunmente para que se imprima en la página principal del proyecto en Github). Es el primer lugar que los usuarios potenciales y colaboradores van a buscar información sobre tu proyecto. Como nombre, instalación, colaboradores, licencia etc. 
 Es importante y por lo general es el primer archivo de nuestro proyecto.
 
-###Git status
+###Git status (working directory)
 
 Una vez creado escribiremos en la terminal, en la carpeta principal del proyecto:
 `git status`
@@ -27,7 +27,7 @@ Este comando corrobora que Git hizo el seguimiento de la creación del archivo R
 En terminal:
 
 ```console
-agustin@pandawebs-MacBook-Pro git-curso $ git status
+agustin@pandawebs-MacBook-Pro practicasGit $ git status
 
 On branch master
 Initial commit
@@ -45,7 +45,7 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 `git status` nos sirve para saber si hubo cambios en nuestro proyecto. Mostrará los nuevos archivos y/o los cambios realizados en archivos que hayan sido modificados.
 
-###Git add
+###Git add (staging area)
 
 Con el comando `git add -A` registraremos todos los cambios. Se agregaran los nuevos archivos y/o los archivos que han sido editados.
 
@@ -54,7 +54,7 @@ Otras opciones comunes para `git add`:
 `git add NombreArchivo.txt`. Agrega sólo el archivo que le indiquemos.
 `git add .` agrega todos los archivos que se hayan modificado(no creados).
 
-###Git commit
+###Git commit(confirmación)
 
 Con el comando `git commit -m "Creamos README.md"` confirmamos y enviamos todos los cambios al historial del repositorio.
 
@@ -82,7 +82,7 @@ Agregamos contacto y lo guardamos.
 Hacemos `git status`
 
 ```console
-agustin@pandawebs-MacBook-Pro git-curso $ git status
+agustin@pandawebs-MacBook-Pro practicasGit $ git status
 
 (use "git add ..." to update what will be committed)
 
@@ -115,7 +115,7 @@ Ya tenemos dos versiones. Para ver una lista y descripción de las versiones de 
 proyecto escribimos `git log`
 
 ```console
-agustin@pandawebs-MacBook-Pro git-curso $ git log
+agustin@pandawebs-MacBook-Pro practicasGit $ git log
 
 commit 57oc67af0e2d8d825a7c47b45c5adbea615170ed
 
