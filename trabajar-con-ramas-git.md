@@ -58,7 +58,7 @@ En nuestro ejemplo:
 
 `git checkout prueba1`
 
-==A partir de ahora el avance del proyecto lo estamos realizando en la rama `prueba1`==
+_**A partir de ahora el avance del proyecto lo estamos realizando en la rama `prueba1`**_
 
 En esta nueva rama vamos a editar el README.md. Agregamos licencia:
 
