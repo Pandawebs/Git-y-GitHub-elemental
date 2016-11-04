@@ -115,7 +115,8 @@ Ya estamos habilitados para utilizar la url SSH para nuestra conexión con GitHu
 <!-- Inicio links índice y github -->
 
 <span class="link-to-index-git">Git & Github elemental [ ver índice](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/README.md)</span>
-<em>[Editar este artículo en Github](https://github.com/Pandawebs/Git-y-GitHub-elemental/edit/master/ssh-https-conexion-github.md " target="_blank)</em>
+
+<em>[Editar este artículo en Github](https://github.com/Pandawebs/Git-y-GitHub-elemental/edit/master/ssh-https-conexion-github.md)</em>
 
 <!-- Fin links índice y github -->
 
