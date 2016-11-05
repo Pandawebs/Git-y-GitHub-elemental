@@ -1,6 +1,7 @@
 #Fork un repositorio.
 
-**Fork copia cualquier repositorio público de Github a nuestra cuenta. Éste se agregará a nuestra lista de repositorios.**
+**Fork copia cualquier repositorio público de Github a nuestra cuenta. 
+Éste se agregará a nuestra lista de repositorios en GitHub.**
 
 Fork nos permite trabajar sobre cualquier repositorio público de Github, sin afectar el original.
 
@@ -9,18 +10,26 @@ Fork nos permite trabajar sobre cualquier repositorio público de Github, sin af
 
 La **diferencia entre fork y clone** es que fork es una copia de un repositorio remoto a otro remoto, y [clone](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/clonar-un-repositorio.md) es una copia de un repositorio remoto a nuestra computadora.
 
-Fork nos permite editar cualquier proyecto con las herramientas de colaboración que nos ofrece GitHub. Por ejemplo trabajar remotamente con miembros de nuestro equipo sobre cualquier proyecto público o proponer cambios a los repositorios originales haciendo [pull requests](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/pull-request.md).
+Fork nos permite editar cualquier proyecto con las herramientas de colaboración que nos ofrece GitHub. Por ejemplo trabajar remotamente con miembros de nuestro equipo sobre cualquier proyecto público y proponer cambios haciendo [pull requests](http://localhost:2368/pull-request).
 
 
 ###Mantener actualizado nuestro repositorio fork con el original(upstream).
 
+Para mantener actualizado nuestro fork, primero conectamos nuestro repo local con el original a través del comando:
+
+
+`git remote add upstream [url HTTPS o SSH del repositorio original]`
+<small>- Para usar SSH [genera la clave](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/ssh-https-conexion-github.md) -</small>
+
+
 `upstream` es el nombre que se le da al repositorio original a la hora de hacer la conexión.
 
->Una conexión con `upstream` permite descargar los cambios efectuados en el repositorio original pero no permite cargar datos. Nuestros cambios los cargaremos a nuestro fork del proyecto. Luego se pueden proponer al original con un [pull requests](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/pull-request.md).
+>Una conexión con `upstream` permite descargar los cambios efectuados en el repositorio original pero no permite cargar datos. 
+Igual podemos proponer cambios haciéndolos en nuestro fork y luego enviando un [pull requests](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/pull-request.md).
 
 <br>
 
-**Ejemplo práctico:**
+###Ejemplo práctico:
 
 Primero haces un fork del repositorio de nuestro ejemplo dándole al botón "fork".
 
@@ -52,7 +61,7 @@ upstream https://github.com/Pandawebs/practicasGit.git (fetch)
 upstream https://github.com/Pandawebs/practicasGit.git (push)
 ```
 
-Ahora comprobamos si ha habido cambios en el repo original y los traemos a nuestro local.
+Ahora comprobamos si ha habido cambios en el repo original y los traemos a nuestro local:
 
 `git fetch upstream`
 
@@ -62,12 +71,12 @@ También podemos ver si ha habido cambios desde Github
 
 
 
-Hacemos un merge. Esto fusionará los cambios del repositorio original con nuestro repositorio local.
+Hacemos un merge si hubo cambios. Esto fusionará dichos cambios del repositorio original con nuestro repositorio local.
 
 `git merge upstream/master`
 
 
-Ahora podemos actualizar el fork de nuestra cuenta de GitHub:
+Ya actualizado nuestro repositorio local podemos actualizar el fork de nuestra cuenta en GitHub:
 
 `git push origin master`
 
