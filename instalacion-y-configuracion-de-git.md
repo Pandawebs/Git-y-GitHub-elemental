@@ -32,8 +32,7 @@ git version 2.6.0
 
 ###Configurar nombre:
 
-a)**Configurar nombre de manera GLOBAL:**
-
+a)**GLOBAL:** 
 Utilizará por defecto el mismo nombre para todos los repositorios que vayas a crear en tu computadora. 
 
 `git config --global user.name "Agustin"` 
@@ -52,14 +51,14 @@ De ésta manera cada repositorio creado en cualquier directorio se le asignará 
 
 <br>
 
-b)**Configurar nombre de manera ÚNICA:** Para un repositorio en particular.
+b)**Configurar nombre de manera LOCAL:** Para un repositorio en particular.
 
 `git config user.name "Agustin"` 
 
 
-En terminal. En el directorio raíz del proyecto("git-curso" en este ejemplo):
+En terminal. En el directorio raíz del proyecto("practicasGit" en este ejemplo):
 
-`agustin@pandawebs-MacBook-Pro git-curso $ git config user.name "Agustin"`
+`agustin@pandawebs-MacBook-Pro practicasGit $ git config user.name "Agustin"`
 
 <br>
 
@@ -84,17 +83,17 @@ agustin
 **Para cambiar el nombre de usuario en un repositorio Git** simplemente lo volvemos 
 a crear y esta acción sbreescribirá el nombre anterior.
 
-**Global:** `git config --global user.name [Otro Nombre]`
+Global: `git config --global user.name [Otro Nombre]`
 
-**Único:** `git config user.name [Otro Nombre]`
+Local: `git config user.name [Otro Nombre]`
 
 <br>
 
 ###Configurar email:
 
-**Global**: `git config --global user.email "agustin@example.com"`
+Global: `git config --global user.email "agustin@example.com"`
 
-**Único**: `git config user.email "agustin@example.com"`
+Local: `git config user.email "agustin@example.com"`
 
 <br>
 
