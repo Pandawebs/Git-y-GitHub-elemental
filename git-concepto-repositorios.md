@@ -4,7 +4,7 @@ _**Git es un programa para hacer el seguimiento de cambios en la escritura de c�
 a través del tiempo.
 Este seguimiento es conocido en programación como "Control de Versiones".**_
 
-Git es un software de código abierto (open source software) creado por Linus Torvalds, 
+Es un software de código abierto (open source software) y fue creado por Linus Torvalds, 
 el mismo creador del sistema operativo Linux.
 
 ###¿Qué es un Repositorio Git?
