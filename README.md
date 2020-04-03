@@ -9,8 +9,7 @@ Esperamos tu ["pull request"](https://github.com/Pandawebs/Git-y-GitHub-elementa
 
 ####Curso elemental y simple de Git y GitHub.
 
-
-![alt](http://pandawebs.net/assets/images/logo-git.png)![alt](http://pandawebs.net/assets/images/github.png)
+[![logogit-github.png](https://i.postimg.cc/D0GCJbLJ/logogit-github.png)](https://postimg.cc/649VFqHt)
 
 - [Git. Concepto - repositorios](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/git-concepto-repositorios.md)
 
