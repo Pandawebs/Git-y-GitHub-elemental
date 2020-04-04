@@ -2,22 +2,23 @@
 
 ## Instalar Git
 
-Descargar Git desde [https://git-scm.com/downloads](https://git-scm.com/downloads " target="_blank) y seguir las instrucciones de instalación.
 
-Una vez instalado, abrir la terminal y verificar la instalación. Escribir:
+Descargar Git desde <a href="https://git-scm.com/downloads" target="_blank">https://git-scm.com/downloads</a> y seguir las instrucciones de instalación.
+
+Una vez instalado abrir la terminal (Git Bash en Windows) y verificar la instalación. Escribir:
 
 `git --version`
 
 Si Git se instaló correctamente, la terminal mostrará la versión de Git instalada.
 
-Ejemplo: `git version 2.6.0`
+Ejemplo: `git version 2.23.0`
 
 En terminal:
 
 ```console
 agustin@pandawebs-MacBook-Pro ~ $ git --version
 
-git version 2.6.0
+git version 2.23.0
 ```
 
 <hr>
