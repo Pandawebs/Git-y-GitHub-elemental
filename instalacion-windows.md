@@ -1,1 +1,0 @@
-# Instalación de Git en Windows

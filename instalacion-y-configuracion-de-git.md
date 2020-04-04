@@ -57,7 +57,7 @@ b)**Configurar nombre de manera LOCAL:** Para un repositorio en particular.
 `git config user.name "Agustin"` 
 
 
-En terminal. En el directorio raíz del proyecto("practicasGit" en este ejemplo):
+En terminal. En el directorio raíz del proyecto ("practicasGit" en este ejemplo):
 
 `agustin@pandawebs-MacBook-Pro practicasGit $ git config user.name "Agustin"`
 
