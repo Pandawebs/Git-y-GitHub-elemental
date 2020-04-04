@@ -1,6 +1,6 @@
-#Instalación y configuración de Git
+# Instalación y configuración de Git
 
-##Instalar Git
+## Instalar Git
 
 Descargar Git desde [https://git-scm.com/downloads](https://git-scm.com/downloads " target="_blank) y seguir las instrucciones de instalación.
 
@@ -22,7 +22,7 @@ git version 2.6.0
 
 <hr>
 
-##Configurar Git
+## Configurar Git
 
 **Configuración de nombre y email para Git**
 
@@ -30,7 +30,7 @@ git version 2.6.0
 
 <br>
 
-###Configurar nombre:
+### Configurar nombre:
 
 a)**GLOBAL:** 
 Utilizará por defecto el mismo nombre para todos los repositorios que vayas a crear en tu computadora. 
@@ -89,7 +89,7 @@ Local: `git config user.name [Otro Nombre]`
 
 <br>
 
-###Configurar email:
+### Configurar email:
 
 Global: `git config --global user.email "agustin@example.com"`
 

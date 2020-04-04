@@ -1,7 +1,7 @@
-#Git fetch y git pull. 
+# Git fetch y git pull. 
 **Actualizando el repositorio local con datos del repositorio remoto.**
 
-##Git fetch
+## Git fetch
 
 `git fetch` nos descarga a nuestro entorno local las actualizaciones del repositorio remoto.
 Estos datos pueden ser porque estamos trabajando en equipo y otro miembro haya subido cambios, o que nosotros mismos hayamos agregado datos desde la propia página de GitHub. Con `git fetch` podremos mantener actualizado nuestro repositorio local.
@@ -48,7 +48,7 @@ Este paso es importante hacerlo cuando se está trabajando en equipo porque nos 
 Si ha habido cambios lo fusionaremos con `git merge origin/master` y nuestro repositorio local estará actualizado y sincronizado con el repositorio remoto.
 
 
-##Git pull
+## Git pull
 
 Es un `git fetch` seguido de un `git merge`
 

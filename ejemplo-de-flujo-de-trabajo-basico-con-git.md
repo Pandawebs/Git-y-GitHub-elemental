@@ -1,4 +1,4 @@
-##Ejemplo de flujo de trabajo con Git.
+## Ejemplo de flujo de trabajo con Git.
 
 Luego de crear una carpeta vacía e [iniciar Git](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/crear-un-repositorio.md), vamos a crear el archivo README.md con algo de información(nombre del proyecto, autor, etc) que podremos ir editando y ampliando a lo largo del proyecto.
 
@@ -17,7 +17,7 @@ Archivo .md escrito en [markdown](#):
 Un archivo README.md se utiliza comunmente para que se imprima en la página principal del proyecto en Github). Es el primer lugar que los usuarios potenciales y colaboradores van a buscar información sobre tu proyecto. Como nombre, instalación, colaboradores, licencia etc. 
 Es importante y por lo general es el primer archivo de nuestro proyecto.
 
-###Git status (working directory)
+### Git status (working directory)
 
 Una vez creado escribiremos en la terminal, en la carpeta principal del proyecto:
 `git status`
@@ -45,7 +45,7 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 `git status` nos sirve para saber si hubo cambios en nuestro proyecto. Mostrará los nuevos archivos y/o los cambios realizados en archivos que hayan sido modificados.
 
-###Git add (staging area)
+### Git add (staging area)
 
 Con el comando `git add -A` registraremos todos los cambios. Se agregaran los nuevos archivos y/o los archivos que han sido editados.
 
@@ -54,7 +54,7 @@ Otras opciones comunes para `git add`:
 `git add NombreArchivo.txt`. Agrega sólo el archivo que le indiquemos.
 `git add .` agrega todos los archivos que se hayan modificado(no creados).
 
-###Git commit(confirmación)
+### Git commit(confirmación)
 
 Con el comando `git commit -m "Creamos README.md"` confirmamos y enviamos todos los cambios al historial del repositorio.
 
@@ -109,7 +109,7 @@ Ahora realizamos el commit.
 
 `git commit -m "Agregamos contacto a README.md"`
 
-##Git log
+## Git log
 
 Ya tenemos dos versiones. Para ver una lista y descripción de las versiones de nuestro
 proyecto escribimos `git log`

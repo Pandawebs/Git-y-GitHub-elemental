@@ -1,4 +1,4 @@
-#Fork un repositorio.
+# Fork un repositorio.
 
 **Fork copia cualquier repositorio público de Github a nuestra cuenta. 
 Éste se agregará a nuestra lista de repositorios en GitHub.**
@@ -13,7 +13,7 @@ La **diferencia entre fork y clone** es que fork es una copia de un repositorio 
 Fork nos permite editar cualquier proyecto con las herramientas de colaboración que nos ofrece GitHub. Por ejemplo trabajar remotamente con miembros de nuestro equipo sobre cualquier proyecto público y proponer cambios haciendo [pull requests](http://localhost:2368/pull-request).
 
 
-###Mantener actualizado nuestro repositorio fork con el original(upstream).
+### Mantener actualizado nuestro repositorio fork con el original(upstream).
 
 Para mantener actualizado nuestro fork, primero conectamos nuestro repo local con el original a través del comando:
 
@@ -29,7 +29,7 @@ Igual podemos proponer cambios haciéndolos en nuestro fork y luego enviando un 
 
 <br>
 
-###Ejemplo práctico:
+### Ejemplo práctico:
 
 Primero haces un fork del repositorio de nuestro ejemplo dándole al botón "fork".
 

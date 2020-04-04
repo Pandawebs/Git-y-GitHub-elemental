@@ -1,4 +1,4 @@
-##Reset
+## Reset
 
 _**Lo que hace reset es reiniciar Git en el punto o estado que indiquemos.**_
 

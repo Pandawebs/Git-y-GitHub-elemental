@@ -1,4 +1,4 @@
-#Pull request
+# Pull request
 
 Pull request (PR) sirve para proponer un cambio, corregir algún error, 
 agregar o mejorar el código en algún repositorio público.
@@ -7,12 +7,12 @@ A través de un PR podemos darnos a conocer en alguna organización
 y hasta conseguir unirnos si nuestras propuestas son de interés
 para el desarrollo del proyecto.
 
-##Cómo hacer un pull request
+## Cómo hacer un pull request
 
 >Primero veremos una descripción de los pasos 
 que tenemos que realizar y luego un ejemplo ilustrado para que lo puedas seguir y crear rapidamente un PR. [- saltar al ejemplo -](#head1)
 
-##Descripción de los pasos a seguir:
+## Descripción de los pasos a seguir:
 
 Realizamos un [fork](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/fork-un-repositorio.md) del proyecto que queremos colaborar. 
 
@@ -67,7 +67,8 @@ Ahora quedará esperar que sea aceptado o no.
 <br>
 
 <a name="head1"></a>
-##Ejemplo ilustrado de pull request en 10 pasos:
+
+## Ejemplo ilustrado de pull request en 10 pasos:
 >Te animo que vayas haciendo los pasos mientras los lees. Modifica algún archivo y haz el pull request. (sin miedo! es un repositorio de práctica)
 
 **En este ejemplo vamos a hacer un pull request a [nuestro repositorio de práctica(practicasGit)](https://github.com/Pandawebs/practicasGit " target="_blank) para proponer un index.html.**
@@ -145,7 +146,7 @@ Si usamos conexión HTTPS nos pedirá nombre de usuario y contraseña de GitHub.
 
 
 
-###En Github 
+### En Github 
 
 **8)** Elegimos la rama en la que hicimos el cambio para proponer.
 

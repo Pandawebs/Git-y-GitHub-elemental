@@ -1,4 +1,4 @@
-##¿Cómo crear un repositorio?
+## ¿Cómo crear un repositorio?
 
 
 Después de [instalar Git en nuestra computadora](http://pandawebs.net/instalacion-y-configuracion-de-git/ " target="_blank) ya podremos iniciar Git en cualquier carpeta para que ésta se convierta en un repositorio.

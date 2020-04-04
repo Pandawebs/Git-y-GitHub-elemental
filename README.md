@@ -1,4 +1,4 @@
-#Git y GitHub elemental
+# Git y GitHub elemental
 
 Este repositorio contiene los artículos publicados del curso elemental de Git y GitHub de [pandawebs.net](http://pandawebs.net/git-github-elemental/).
 La idea es aprender de manera fácil y efectiva basándonos en ideas y ejemplos concretos.
@@ -7,7 +7,7 @@ Buscamos el crecimiento y la mejora permanente de este curso a través de la col
 Esperamos tu ["pull request"](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/pull-request.md), ya sea al [proyecto de práctica ](https://github.com/Pandawebs/practicasGit) como a este mismo repositorio, corrigiendo, agregando o mejorando estos artículos.
 
 
-####Curso elemental y simple de Git y GitHub.
+#### Curso elemental y simple de Git y GitHub.
 
 [![logogit-github.png](https://i.postimg.cc/D0GCJbLJ/logogit-github.png)](https://postimg.cc/649VFqHt)
 

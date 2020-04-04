@@ -1,6 +1,6 @@
-##Funcionamiento de GitHub
+## Funcionamiento de GitHub
 
-###GitHub
+### GitHub
 
 GitHub permite publicar proyectos con Git y nos ofrece herramientas 
 para compartir, colaborar en proyectos y trabajar en equipo.
@@ -55,7 +55,7 @@ origin https://github.com/Pandawebs/practicasGit.git (push)
 
 <br>
 
-##Git push. 
+## Git push. 
 **Subir - empujar un repositorio al servidor remoto(GitHub).**
 
 Para ir subiendo las actualizaciones de nuestro proyecto a GitHub o a cualquier otro servidor remoto.

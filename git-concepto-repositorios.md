@@ -1,4 +1,4 @@
-##Git.
+## Git.
 
 _**Git es un programa para hacer el seguimiento de cambios en la escritura de código 
 a través del tiempo.
@@ -7,7 +7,7 @@ Este seguimiento es conocido en programación como "Control de Versiones".**_
 Es un software de código abierto (open source software) y fue creado por Linus Torvalds, 
 el mismo creador del sistema operativo Linux.
 
-###¿Qué es un Repositorio Git?
+### ¿Qué es un Repositorio Git?
 
 Un repositorio es, simplemente, la carpeta del proyecto una vez que se incorporó Git.
 Es decir, que ya tiene la capacidad de crear y controlar versiones sobre la historia de desarrollo.

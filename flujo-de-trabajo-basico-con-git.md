@@ -1,4 +1,4 @@
-##Flujo de trabajo básico con Git (basic Git workflow)
+## Flujo de trabajo básico con Git (basic Git workflow)
 
 Se compone de tres pasos y son la base para trabajar con Git.
 Se las conoce también como los tres estados.

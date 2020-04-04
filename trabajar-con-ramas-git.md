@@ -1,8 +1,8 @@
-#Trabajar con ramas en Git
+# Trabajar con ramas en Git
 
 ![ramas git definición](http://pandawebs.net/assets/images/ramas-git.png)
 
-##Ramas (branches)
+## Ramas (branches)
 
 **Una rama es una linea de tiempo por la que avanza un proyecto.** Cuando hacemos el primer commit en un repositorio ya se crea por defecto la rama llamada `master`. Esta será la rama estable y principal. A la vez se pueden crear en cualquier momento más ramas para pruebas y propuestas de miembros del equipo o de terceros. 
 Las ramas se pueden fusionar entre si y renombrar.
@@ -41,7 +41,7 @@ Cuando creamos otra rama, esta nace con toda la base de la rama madre (master en
 
 <br>
 
-##Crear una rama
+## Crear una rama
 
 `git branch [nombre de rama]`
 
@@ -88,7 +88,7 @@ Y hacemos el commit: `git commit -m "Agregamos licencia MIT al README.md"`
 
 <br>
 
-###Fusiones(merge)
+### Fusiones(merge)
 
 
 Si la propuesta de una rama es aceptada deberemos fusionarla con la rama principal o con la que nos interese.
@@ -178,15 +178,9 @@ README.md
 
 ## Licencia
 
-<<<<<<< HEAD
-
-Apache License 2.0
-
-=======
 
 MIT License
 
->>>>>>> prueba1
 ```
 
 Elegimos la que vamos a dejar y borramos la otra junto con los nombres y los símbolos que aparecen y no forman parte de nuestro código.

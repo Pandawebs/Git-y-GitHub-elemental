@@ -1,4 +1,4 @@
-##HTTPS y SSH (protocolos de transferencia de archivos)
+## HTTPS y SSH (protocolos de transferencia de archivos)
 *Conexión entre entorno local y remoto*
 
 Cuando queremos conectar un repositorio de GitHub con nuestra computadora, podemos usar 2 tipos de url para hacer dicha conexión: **HTTPS** o **SSH**
@@ -17,14 +17,14 @@ nombre de usuario y contraseña cada vez que tengamos que transferir archivos.
 Este protocolo se caracteriza por brindar mayor seguridad por utilizar una criptografía que hace ilegible los datos mientras son transferidos. Para utilizarlo hay que generar un par de claves SSH (SSH key pair). Una pública y una privada. Luego deberemos agregar la pública a GitHub y ya podremos usar la url SSH para realizar nuestras transferencias.
 
 
-###SSH key
+### SSH key
 
 **Verificar si tenemos las claves.**
 Es posible que nuestra máquina ya tenga generadas las claves SSH.
 Abrimos la terminal y escribimos `cd ~/.ssh` y a continuación `ls`.
 Si aparece el nombre del archivo `id_rsa.pub` es porque ya las tienes y no necesitas crearlas.
 
-###Generar la claves SSH
+### Generar la claves SSH
 
 Escribimos en la terminal `ssh-keygen -t rsa -C "your@email.com"`(cambia el email por el tuyo).
 Le damos enter para dejar la ubicación por defecto. 

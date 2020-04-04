@@ -1,11 +1,11 @@
-#Clonar un repositorio
+# Clonar un repositorio
 
 Otra común manera de comenzar a trabajar con un repositorio es clonando uno existente. Esto crea una copia del repositorio en nuestra computadora. No necesitamos ni crear carpeta ni ejecutar `git init`. 
 Clonar un repositorio es la manera rápida y eficáz de descargar un proyecto de un servidor remoto a nuestra computadora para testearlo, ejecutarlo, modificarlo, etc.
 
 `git clone [dirección url HTTPS ó SSH]` [generar la clave SSH](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/ssh-https-conexion-github.md)
 
-##Clonar un repositorio de Github
+## Clonar un repositorio de Github
 
 Copiamos la dirección HTTPS en este caso:
 
