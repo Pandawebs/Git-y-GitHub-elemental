@@ -23,7 +23,7 @@ Repetiremos los pasos luego de volver a editar el proyecto y creamos conveniente
 
 <!-- Inicio links índice y github -->
 
-<span class="link-to-index-git">Git & Github elemental [ ver índice](http://pandawebs.net/git-github-elemental/)</span>
+<span class="link-to-index-git">Git & Github elemental [ver índice](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/README.md)</span>
 
 <em>[Editar este artículo](https://github.com/Pandawebs/Git-y-GitHub-elemental/edit/master/flujo-de-trabajo-basico-con-git.md)</em>
 

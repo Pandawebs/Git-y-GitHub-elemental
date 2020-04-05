@@ -30,7 +30,7 @@ Supongamos que en vez de llamarse "practicasGit" queremos que se llame "practica
 
 <!-- Inicio links índice y github -->
 
-<span class="link-to-index-git">Git & Github elemental [ ver índice](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/README.md)</span>
+<span class="link-to-index-git">Git & Github elemental [ver índice](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/README.md)</span>
 
 <em>[Editar este artículo en Github](https://github.com/Pandawebs/Git-y-GitHub-elemental/edit/master/clonar-un-repositorio.md)</em>
 

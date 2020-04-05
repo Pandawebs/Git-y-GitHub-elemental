@@ -1,6 +1,6 @@
 ## ¿Cómo crear un repositorio?
 
-Después de <a href="http://pandawebs.net/instalacion-y-configuracion-de-git/" target="_blank">instalar Git en nuestra computadora</a> ya podremos iniciar Git en cualquier carpeta para que ésta se convierta en un repositorio.
+Después de <a href="https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/instalacion-y-configuracion-de-git.md/" target="_blank">instalar Git en nuestra computadora</a> ya podremos iniciar Git en cualquier carpeta para que ésta se convierta en un repositorio.
 
 Para iniciar Git. En la terminal, ir a la carpeta del proyecto (practicasGit en este caso) y escribir:
 
@@ -35,8 +35,7 @@ A partir de que iniciamos Git ya se podran ir creando y controlando versiones.
 <!-- Inicio links índice y github -->
 
 
-<span class="link-to-index-git">Git & Github elemental [ ver índice](http://pandawebs.net/git-github-elemental/)</span>
-
+<span class="link-to-index-git">Git & Github elemental [ver índice](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/README.md)</span>
 <em>[Editar este artículo](https://github.com/Pandawebs/Git-y-GitHub-elemental/edit/master/crear-un-repositorio.md)</em>
 
 
