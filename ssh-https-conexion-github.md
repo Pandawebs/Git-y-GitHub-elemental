@@ -3,9 +3,9 @@
 
 Cuando queremos conectar un repositorio de GitHub con nuestra computadora, podemos usar 2 tipos de url para hacer dicha conexión: **HTTPS** o **SSH**
 
-![alt](http://pandawebs.net/assets/images/ssh-https-github.png)
+[![ssh-https-github.png](https://i.postimg.cc/SK4T4bR1/ssh-https-github.png)](https://postimg.cc/LJyBk7zj)
 
-![alt](http://pandawebs.net/assets/images/github-https.png)
+[![github-https.png](https://i.postimg.cc/4N6m94Kf/github-https.png)](https://postimg.cc/8jCp8SB9)
 
 <br>
 
@@ -83,28 +83,28 @@ Lo copiamos y vamos a GitHub.
 
 * Settings:
 
-![alt](http://pandawebs.net/assets/images/ssh-github-1.png)
+[![ssh-github-1.png](https://i.postimg.cc/jCV9Jwqt/ssh-github-1.png)](https://postimg.cc/0KfZTNJB)
 
 
 <br>
 
 * SSH and PGP keys:
 
-![alt](http://pandawebs.net/assets/images/ssh-github-2.png)
+[![ssh-github-2.png](https://i.postimg.cc/Kcdv50Rv/ssh-github-2.png)](https://postimg.cc/Lh3p9Btr)
 
 
 <br>
 
 * New SSH key:
 
-![alt](http://pandawebs.net/assets/images/ssh-github-3.png)
+[![ssh-github-3.png](https://i.postimg.cc/8kFzW2k0/ssh-github-3.png)](https://postimg.cc/kDmCPhbQ)
 
 
 <br>
 
 * Title(cualquier título) - Key(pegamos el id_rsa.pub) - Add SSH key:
 
-![alt](http://pandawebs.net/assets/images/ssh-github-4.png)
+[![ssh-github-4.png](https://i.postimg.cc/YqY2DQWN/ssh-github-4.png)](https://postimg.cc/gncPnX4r)
 
 
 Ya estamos habilitados para utilizar la url SSH para nuestra conexión con GitHub.

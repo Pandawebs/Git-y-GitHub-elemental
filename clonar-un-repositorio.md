@@ -9,7 +9,7 @@ Clonar un repositorio es la manera rápida y eficáz de descargar un proyecto de
 
 Copiamos la dirección HTTPS en este caso:
 
-![alt](http://pandawebs.net/assets/images/clonar-un-repositorio.png)
+[![clonar-un-repositorio.png](https://i.postimg.cc/1zrtjyhm/clonar-un-repositorio.png)](https://postimg.cc/8FsNFQz9)
 
 > Para utilizar la dirección SSH debemos [generar la clave SSH](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/ssh-https-conexion-github.md)
 
@@ -32,7 +32,7 @@ Supongamos que en vez de llamarse "practicasGit" queremos que se llame "practica
 
 <span class="link-to-index-git">Git & Github elemental [ ver índice](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/README.md)</span>
 
-<em>[Editar este artículo en Github](https://github.com/Pandawebs/Git-y-GitHub-elemental/edit/master/clonar-un-repositorio.md " target="_blank)</em>
+<em>[Editar este artículo en Github](https://github.com/Pandawebs/Git-y-GitHub-elemental/edit/master/clonar-un-repositorio.md)</em>
 
 <!-- Fin links índice y github -->
 

@@ -55,7 +55,7 @@ En GitHub:
 
 Elegimos en el desplegable branch > branches y la rama en la que hicimos el cambio para proponer.
 
-![alt](http://pandawebs.net/assets/images/branches-github.png)
+[![branches-github.png](https://i.postimg.cc/DwnybmM2/branches-github.png)](https://postimg.cc/1f7ZkRST)
 
 A la derecha del desplegable branch click a "new pull request".
 
@@ -82,18 +82,19 @@ _Nota_ <small> En este ejemplo usamos HTTPS como conexión. Para usar SSH [gener
 
 **1)** Vamos a [la página del repositorio practicasGit](https://github.com/Pandawebs/practicasGit " target="_blank) y le hacemos un fork.
 
-![alt](http://pandawebs.net/assets/images/fork-git.png)
+[![fork-git.png](https://i.postimg.cc/DZsKMgbq/fork-git.png)](https://postimg.cc/G8cNBvK2)
 
 Automáticamente se nos redirige a la copia
 del repositorio en nuestra cuenta.
 
-![alt](http://pandawebs.net/assets/images/forked-PR.png)
+[![forked-PR.png](https://i.postimg.cc/NM9gwX5x/forked-PR.png)](https://postimg.cc/r0T61KGd)
 
 **2)** Abrimos la terminal y lo clonamos:
 
 `git clone https://github.com/tuCuenta/practicasGit.git`
 
-<small>Ver [Clonar un repositorio](https://github.com/Pandawebs/Git-y-GitHub-elemental/edit/master/clonar-un-repositorio.md " target="_blank)</small>
+<small>Ver [Clonar un repositorio](https://github.com/Pandawebs/Git-y-GitHub-elemental/edit/master/clonar-un-repositorio.md)
+</small>
 
 **3)** Entramos a la carpeta clonada:
 
@@ -150,31 +151,31 @@ Si usamos conexión HTTPS nos pedirá nombre de usuario y contraseña de GitHub.
 
 **8)** Elegimos la rama en la que hicimos el cambio para proponer.
 
-![alt](http://pandawebs.net/assets/images/PR-elegir-rama.png)
+[![PR-elegir-rama.png](https://i.postimg.cc/jdsSDL9R/PR-elegir-rama.png)](https://postimg.cc/CdQgtLS2)
 
 
 
 **9)** A la derecha del desplegable branch click a "new pull request"
 
-![alt](http://pandawebs.net/assets/images/PR-nuevo.png)
+[![PR-nuevo.png](https://i.postimg.cc/9XBWHcfK/PR-nuevo.png)](https://postimg.cc/vDcRWFft)
 
 
 
 >Los 2 pasos anteriores(8 y 9) lo podemos hacer dándole al botón "Compare & pull request"
 
-![alt](http://pandawebs.net/assets/images/PR-compare.png)
+[![PR-compare.png](https://i.postimg.cc/ZKRhk32v/PR-compare.png)](https://postimg.cc/pygSz92P)
 
 
 
 **10)** Ponemos título y descripción(opcional) a nuestro pull request y le damos click a
 "Create pull request". 
 
-![alt](http://pandawebs.net/assets/images/PR-final.png)
+[![PR-final.png](https://i.postimg.cc/HLGG7Nxb/PR-final.png)](https://postimg.cc/VJFZxDXN)
 
 
 Aparece un mensje de que no hay conflictos. También una caja de comentarios por si queremos dejar uno.
 
-![alt](http://pandawebs.net/assets/images/PR-confirmacion.png)
+[![PR-confirmacion.png](https://i.postimg.cc/k5NHRXLd/PR-confirmacion.png)](https://postimg.cc/mcDj0Rbd)
 
 
 Ahora quedará esperar que sea aceptado o no.
@@ -187,7 +188,7 @@ Ahora quedará esperar que sea aceptado o no.
 
 <span class="link-to-index-git">Git & Github elemental [ ver índice](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/README.md)</span>
 
-<em>[Editar este artículo](https://github.com/Pandawebs/Git-y-GitHub-elemental/edit/master/pull-request.md " target="_blank)</em>
+<em>[Editar este artículo](https://github.com/Pandawebs/Git-y-GitHub-elemental/edit/master/pull-request.md)</em>
 
 <!-- Fin links índice y github -->
 

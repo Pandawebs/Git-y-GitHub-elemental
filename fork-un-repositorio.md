@@ -5,7 +5,7 @@
 
 Fork nos permite trabajar sobre cualquier repositorio público de Github, sin afectar el original.
 
-![alt](http://pandawebs.net/assets/images/fork-git.png)
+[![fork-git.png](https://i.postimg.cc/DZsKMgbq/fork-git.png)](https://postimg.cc/G8cNBvK2)
 
 
 La **diferencia entre fork y clone** es que fork es una copia de un repositorio remoto a otro remoto, y [clone](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/clonar-un-repositorio.md) es una copia de un repositorio remoto a nuestra computadora.
@@ -33,7 +33,8 @@ Igual podemos proponer cambios haciéndolos en nuestro fork y luego enviando un 
 
 Primero haces un fork del repositorio de nuestro ejemplo dándole al botón "fork".
 
-![alt](http://pandawebs.net/assets/images/fork-git.png)
+[![fork-git.png](https://i.postimg.cc/DZsKMgbq/fork-git.png)](https://postimg.cc/G8cNBvK2)
+
 
 Luego lo [clonas](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/clonar-un-repositorio.md) en tu computadora:
 <small>En este ejemplo usamos HTTPS como conexión. Para usar SSH [genera la clave](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/ssh-https-conexion-github.md).</small>
@@ -67,8 +68,7 @@ Ahora comprobamos si ha habido cambios en el repo original y los traemos a nuest
 
 También podemos ver si ha habido cambios desde Github
 
-![alt](http://pandawebs.net/assets/images/cambios-fork-original.png)
-
+[![cambios-fork-original.png](https://i.postimg.cc/pdL7wtpQ/cambios-fork-original.png)](https://postimg.cc/CR9m8XCd)
 
 
 Hacemos un merge si hubo cambios. Esto fusionará dichos cambios del repositorio original con nuestro repositorio local.
@@ -91,7 +91,8 @@ Si vamos a Github y refrescamos podremos ver que se ha actualizado nuestro repos
 
 <span class="link-to-index-git">Git & Github elemental [ ver índice](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/README.md)</span>
 
-<em>[Editar este artículo en Github](https://github.com/Pandawebs/Git-y-GitHub-elemental/edit/master/fork-un-repositorio.md " target="_blank)</em>
+<em>[Editar este artículo en Github](https://github.com/Pandawebs/Git-y-GitHub-elemental/edit/master/fork-un-repositorio.md)
+</em>
 
 <!-- Fin links índice y github -->
 
