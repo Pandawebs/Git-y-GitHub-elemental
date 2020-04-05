@@ -11,6 +11,7 @@ Luego de [crear una carpeta vacía (practicasGit) e iniciar Git](https://github.
 ```
 
 Este tipo de archivo con extensión **.md** está escrito en un lenguaje de marcado llamado [Markdown](https://guides.github.com/features/mastering-markdown/).
+
 [Sintaxis Markdown](https://guides.github.com/features/mastering-markdown/)
 
 > **README** es un archivo generalmente .txt o .md con información sobre el software.
