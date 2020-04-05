@@ -98,8 +98,7 @@ Luego de autenticar, nuestro repositorio remoto pasará a tener los mismos archi
 
 Refrescamos nuestro GitHub y vemos nuestro README.md que creamos en nuestro repositorio local ya aparece junto con los commits correspondientes. 
 
-
-![alt](http://pandawebs.net/assets/images/commits-github.png)
+[![commits-github.png](https://i.postimg.cc/yYvRpXKg/commits-github.png)](https://postimg.cc/GHT9HDHd)
 
 ## Relacionado:
 [**SSH - HTTPS - conexión GitHub**](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/ssh-https-conexion-github.md)
