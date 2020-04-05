@@ -1,8 +1,6 @@
 ## Ejemplo de flujo de trabajo con Git.
 
-Luego de crear una carpeta vacía e [iniciar Git](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/crear-un-repositorio.md), vamos a crear el archivo README.md con algo de información(nombre del proyecto, autor, etc) que podremos ir editando y ampliando a lo largo del proyecto.
-
-Archivo .md escrito en [markdown](#):
+Luego de [crear una carpeta vacía (practicasGit) e iniciar Git](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/crear-un-repositorio.md), vamos a crear en ella un archivo donde escribiremos algo de información sobre el proyecto (nombre del proyecto, autor, etc). Este archivo lo llamaremos README.md y escribiremos la siguiente información:
 
 ```md
   ## Curso de Git y GitHub
@@ -11,11 +9,15 @@ Archivo .md escrito en [markdown](#):
 
   * Agustín Palmieri
 ```
-Archivo .md escrito en [markdown](#):
 
-> **README** es un archivo generalmente .txt o .md(.md es la extensión de un archivo [markdown](#)). 
-Un archivo README.md se utiliza comunmente para que se imprima en la página principal del proyecto en Github). Es el primer lugar que los usuarios potenciales y colaboradores van a buscar información sobre tu proyecto. Como nombre, instalación, colaboradores, licencia etc. 
+Este tipo de archivo con extensión **.md** está escrito en un lenguaje de marcado llamado [Markdown](https://guides.github.com/features/mastering-markdown/).
+[sintaxis markdown](https://guides.github.com/features/mastering-markdown/)
+
+> **README** es un archivo generalmente .txt o .md con información sobre el software.
+El archivo README.md se imprime en la página principal del proyecto en Github. Es el primer lugar que los usuarios y potenciales colaboradores van a buscar información sobre tu proyecto. Como nombre, instalación, colaboradores, licencia etc. 
 Es importante y por lo general es el primer archivo de nuestro proyecto.
+
+<br>
 
 ### Git status (working directory)
 
@@ -47,18 +49,15 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 ### Git add (staging area)
 
-Con el comando `git add -A` registraremos todos los cambios. Se agregaran los nuevos archivos y/o los archivos que han sido editados.
-
-Otras opciones comunes para `git add`:
+Con el comando `git add .` registraremos todos los cambios. Se agregaran los nuevos archivos y/o los archivos que han sido editados.
 
 `git add NombreArchivo.txt`. Agrega sólo el archivo que le indiquemos.
-`git add .` agrega todos los archivos que se hayan modificado(no creados).
 
 ### Git commit(confirmación)
 
-Con el comando `git commit -m "Creamos README.md"` confirmamos y enviamos todos los cambios al historial del repositorio.
+Con el comando `git commit -m "Creamos README.md"` confirmamos y enviamos todos los cambios al historial del repositorio. Junto con una descripción de los cambios realizados.
 
-Repetiremos los pasos cuando hayamos creado, editado y/o borrado un archivo y creamos
+Repetiremos estos pasos cuando hayamos creado, editado y/o borrado un archivo y creamos
 conveniente que Git guarde una versión hasta ese cambio.
 
 **Nuevos cambios en el proyecto:**
@@ -98,15 +97,9 @@ no changes added to commit (use "git add" and/or "git commit -a")
 Vemos que nos indica que el archivo README.md ha sido modificado. **Aún este cambio no es seguido por Git**.
 
 Agregamos los archivos que han sido editados al [staging area o área intermedia](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/flujo-de-trabajo-basico-con-git.md).
-
-Veamos 2 ejemplos comunes de comandos para agrgar archivos al staging area:
-
-`git add README.md` (Agrega el archivo especificado)
-ó
-`git add -A` (Agrega todos los archivos que han sido editados o creados)
+`git add -A`
 
 Ahora realizamos el commit.
-
 `git commit -m "Agregamos contacto a README.md"`
 
 ## Git log
