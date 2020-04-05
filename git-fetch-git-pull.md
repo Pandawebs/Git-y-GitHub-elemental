@@ -71,7 +71,7 @@ sería lo mismo que
 
 <span class="link-to-index-git">Git & Github elemental [ ver índice](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/README.md)</span>
 
-<em>[Editar este artículo en Github](https://github.com/Pandawebs/Git-y-GitHub-elemental/edit/master/git-fetch-git-pull.md " target="_blank)</em>
+<em>[Editar este artículo en Github](https://github.com/Pandawebs/Git-y-GitHub-elemental/edit/master/git-fetch-git-pull.md)</em>
 
 <!-- Fin links índice y github -->
 
