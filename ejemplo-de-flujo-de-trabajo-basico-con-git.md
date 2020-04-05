@@ -98,7 +98,7 @@ no changes added to commit (use "git add" and/or "git commit -a")
 Vemos que nos indica que el archivo README.md ha sido modificado. **Aún este cambio no es seguido por Git**.
 
 Agregamos los archivos que han sido editados al [staging area o área intermedia](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/flujo-de-trabajo-basico-con-git.md).
-`git add -A`
+`git add .`
 
 Ahora realizamos el commit.
 `git commit -m "Agregamos contacto a README.md"`

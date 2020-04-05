@@ -1,6 +1,6 @@
 # Trabajar con ramas en Git
 
-![ramas git definición](http://pandawebs.net/assets/images/ramas-git.png)
+[![grafico-ramas.png](https://i.postimg.cc/X7gzhz7k/grafico-ramas.png)](https://postimg.cc/GHHKTzD4)
 
 ## Ramas (branches)
 
@@ -21,7 +21,7 @@ Una vez que haya finalizado su trabajo, lo pone a disposisión del equipo y si e
 
 Para proponer no hace falta ser miembro de un equipo, por eso, las ramas se usan también
 para hacer propuestas a proyectos públicos a través de Pull Requests.
-([Qué es un pull request y cómo hacerlo](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/pull-request.md " target="_blank))
+[Qué es un pull request y cómo hacerlo](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/pull-request.md)
 
 <br>
 
@@ -178,9 +178,15 @@ README.md
 
 ## Licencia
 
+<<<<<<< HEAD
+
+Apache License 2.0
+
+=======
 
 MIT License
 
+>>>>>>> prueba1
 ```
 
 Elegimos la que vamos a dejar y borramos la otra junto con los nombres y los símbolos que aparecen y no forman parte de nuestro código.

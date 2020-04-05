@@ -14,14 +14,20 @@ Siguiendo con el ejemplo que venimos trabajando, vamos a subir nuestro repositor
 
 2. En la página de nuestro perfil vamos a Repositories > New
 
-![alt](http://pandawebs.net/assets/images/crear-repo.png)
+[![crear-repo.png](https://i.postimg.cc/mkMXZdsV/crear-repo.png)](https://postimg.cc/D4vdBPmb)
+
+También podemos crearlo desde el signo "+" en el ángulo superior derecho junto a la foto de perfil.
+
+[![crear-repo2.png](https://i.postimg.cc/85YB6LH3/crear-repo2.png)](https://postimg.cc/YG1WcGTf)
+
+
 
 Una vez que clickeamos en "New" aparecerán los campos y opciones para crear nuestro nuevo repositorio remoto.
 Ponemos un nombre. En este ejemplo lo llamaremos "practicasGit".
 Luego podemos poner una descripción que es opcional.
 
-Acción siguiente nos da la posibilidad de crear un README. Esto será útil si no tenemos ya creado un repositorio en local, es decir que primero lo creamos en GitHub para luego hacerle una copia como repositorio local. 
-Como nosotros ya lo tenemos y lo que queremos es subirlo a GitHub, no marcamos el casillero que dice "Initialize this repository with a README".
+Acción siguiente nos da la posibilidad de crear un README. Esto será útil si no tuvieramos creado un repositorio en local, es decir que primero lo creamos en GitHub para luego hacerle una copia como repositorio local. 
+Como nosotros ya lo tenemos y lo que queremos es subirlo a GitHub, **no** marcamos el casillero que dice "Initialize this repository with a README".
 
 De momento dejamos en "none" Add .gitignore y Add license.
 
@@ -32,7 +38,7 @@ Nosotros como queremos subir un repositorio existente haremos los pasos que nos 
 
 En primer lugar elegimos y copiamos la dirección HTTPS.
 
-![alt](http://pandawebs.net/assets/images/github-https.png)
+[![github-https.png](https://i.postimg.cc/4N6m94Kf/github-https.png)](https://postimg.cc/8jCp8SB9)
 
 > Para utilizar la dirección SSH debemos [generar la clave SSH](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/ssh-https-conexion-github.md)
 

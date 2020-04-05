@@ -8,7 +8,7 @@ creándolos, modificándolos o borrándolos.
 
 2. **Área intermedia o de preparación(index - staging area)**. Es un área donde se envían todos los cambios que se hicieron en el working directory y se encuentran listos para confirmarlos.
 Al staging area se envían los cambios que afectarán el próximo commit. Se utiliza el comando `git add` seguido de algunas de sus variaciones, tales como:
-`git add -A`(envía todos los cambios) ó `git add [nombre de archivo]`(envía un archivo en particular).
+`git add .`(envía todos los cambios) ó `git add [nombre de archivo]`(envía un archivo en particular).
 
 3. **Confirmación (Git directory)**. Es la última versión del proyecto hasta el último commit.
 Se crea cuando hacemos un commit usando el comando `git commit -m "Descripción de los cambios"`
