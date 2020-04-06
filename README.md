@@ -13,8 +13,6 @@ Esperamos tu ["pull request"](https://github.com/Pandawebs/Git-y-GitHub-elementa
 
 - [Git. Concepto - repositorios](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/git-concepto-repositorios.md)
 
-- [Instalación (Windows)](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/git-concepto-repositorios.md)
-
 - [Instalación y configuración](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/instalacion-y-configuracion-de-git.md)
 
 - [¿Cómo crear un repositorio?](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/crear-un-repositorio.md)
