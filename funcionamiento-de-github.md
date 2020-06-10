@@ -1,4 +1,4 @@
-## Funcionamiento de GitHub
+## Funcionamiento de GitHub. Conectar con nuestro repositorio local.
 
 ### GitHub
 
@@ -81,6 +81,20 @@ No es necesario hacer el `push` después de cada commit. Cuando lo hagamos subir
 
 En nuestro ejemplo aún se encuentra vacío el repositorio remoto que creamos en GitHub.
 
+De todas maneras es buena práctica ejecutar primero el comando `git fetch`. En el caso que nos mostara información como la siguiente:
+```console
+ agustin@pandawebs-MacBook-Pro practicasGit $ git fetch
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Compressing objects: 100% (2/2), done.
+Unpacking objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+From github.com:Cursos-IT/CITweb1.0
+ * [new branch]      master     -> origin/master
+ ```
+significa que en el repositorio remoto (Github) existen archivos que debemos traer a nuestro repositorio local, entonces ejecutaremos el comando `git pull origin master`.
+Si no nos muestra nada luego de ejecutar `git fetch` continuamos con lo siguiente.
+
 Vamos a la terminal y escribimos `git status` para asegurarnos de que no haya cambios por agregar a git.
 
 ```console
@@ -88,6 +102,9 @@ agustin@pandawebs-MacBook-Pro practicasGit $ git status
 On branch master
 nothing to commit, working directory clean
 ```
+Si existieran cambios continuamos con los comandos `git add .` y `git commit -m "mensaje"`
+
+Ahora enviamos el repositorio a Github:
 
 Escribimos el comando `git push origin master`
 

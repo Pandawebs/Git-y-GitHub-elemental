@@ -25,7 +25,7 @@ Esperamos tu ["pull request"](https://github.com/Pandawebs/Git-y-GitHub-elementa
 
 - [Git reset](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/git-reset.md)
 
-- [Github. Funcionamiento](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/funcionamiento-de-github.md)
+- [Github. Funcionamiento y conexión con repo local](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/funcionamiento-de-github.md)
 
 - [SSH - HTTPS - conexión GitHub](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/ssh-https-conexion-github.md)
 
