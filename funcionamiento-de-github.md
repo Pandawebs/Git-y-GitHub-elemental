@@ -104,7 +104,7 @@ On branch master
 nothing to commit, working directory clean
 ```
 Si existieran cambios continuamos con los comandos `git add .` y `git commit -m "mensaje"`. 
-Info sobre éstos comandos-> [** Flujo de trabajo con Git**](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/flujo-de-trabajo-basico-con-git.md)
+Info sobre éstos comandos-> [**Flujo de trabajo con Git**](https://github.com/Pandawebs/Git-y-GitHub-elemental/blob/master/flujo-de-trabajo-basico-con-git.md)
 
 Ahora enviamos el repositorio a Github:
 
